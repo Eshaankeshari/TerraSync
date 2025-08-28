@@ -1,0 +1,18 @@
+# Node
+node_modules/
+*.log
+*.tmp
+.env
+.DS_Store
+
+# Backend uploads
+backend/uploads/
+
+# Frontend build
+frontend/dist/
+frontend/.vite/
+frontend/node_modules/
+
+# Editor
+.idea/
+.vscode/
